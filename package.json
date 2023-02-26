@@ -1,0 +1,22 @@
+{
+  "name": "sf-9",
+  "version": "1.0.0",
+  "description": "SF NPM test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erazdobarov65/sf-9.git"
+  },
+  "author": "Evgeny Razdobarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erazdobarov65/sf-9/issues"
+  },
+  "homepage": "https://github.com/erazdobarov65/sf-9#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
